@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Petani Nusantara</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_phone">Nomor Telepon</string>
+    <string name="hint_password">Kata Sandi</string>
+    <string name="hint__confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="action_log_in">Masuk</string>
+    <string name="action_register_start">Mulai Pendaftaran</string>
+    <string name="action_register_end">Selesaikan Pendaftaran</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_gender">Jenis Kelamin</string>
+    <string name="hint_job">Pekerjaan</string>
+    <string name="hint_province">Provinsi</string>
+    <string name="hint_city">Kota/Kabupaten</string>
+    <string name="hint_address">Alamat</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_biodata">BiodataActivity</string>
+</resources>
